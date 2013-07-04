@@ -1,0 +1,11 @@
+{
+  "name": "connect-variable-helper",
+  "version": "0.0.1",
+  "description": "Provides a higher level connect-middleware function that helps define helper functions which manipulate variables in both the session and cookie at the same time.",
+  "keywords": ["connect", "express", "session", "cookie", "variable", "middleware"],
+  "author": "Tarun Chaudhry <tarunc92@gmail.com>",
+  "repository": { "type": "git", "url": "git://github.com/tarunc/connect-variable-helper.git" },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index"
+}
